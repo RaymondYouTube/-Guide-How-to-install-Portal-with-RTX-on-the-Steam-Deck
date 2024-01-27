@@ -64,7 +64,7 @@ On Steam Deck, follow the below steps in Desktop Mode.
 
 1. Download the Portal: Still Alive mappack from Mod DB. Keep in mind, use the mappack version, not the sourcemod version. Make sure you download the mappack version.
 2. Go on Steam, click on the game's settings for Portal with RTX, go to manage, and click on browse local files. Alternatively you can search for the Portal RTX directory in the Dolphin file manager. To do this, make sure you enable "Show hidden files" in the Dolphin file manager. The directory is this: /home/deck/.local/share/Steam/steamapps/common/PortalRTX/portal_rtx/
-3. Extract the files into the custom folder. If you don't have a custom folder, create one.
+3. Create a new folder called Portal: Still Alive, then extract the files into a folder you created, and drag that folder into the custom folder. If you don't have a custom folder, create one.
 4. Then load Portal with RTX, go to Bonus maps and Load the the Mappack from the list.
 
 Now you can play the bonus maps test chambers from Portal: Still Alive with RTX on your Steam Deck. The Portal: Still Alive bonus maps are based on the maps from the Portal: The Flash Version mappack.
